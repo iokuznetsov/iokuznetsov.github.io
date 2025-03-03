@@ -14,7 +14,7 @@ You can follow this research [here](https://intertext.ukp-lab.de/).
 Before that, I worked on computational linguistics, probing and interpretability. 
 This journey is described – at length – [here](https://tuprints.ulb.tu-darmstadt.de/19851/). 
 
-Even earlier, I studied Theoretical and Applied Linguistics at the Lomonosov Moscow State University, and worked as an NLP researcher at the Higher School of Economics, in Russia.
+And before that, I studied Theoretical and Applied Linguistics at the Lomonosov Moscow State University, and worked as an NLP researcher at the Higher School of Economics, in Russia.
 
 Broadly, I am interested in new empirical approaches to AI evaluation, human-AI interaction and collaboration. I like clever applications of AI for scientific work, education, and complex tasks. 
 I love cross-disciplinary research. I am interested in responsible and safe AI, and co-lecture a course on Ethics for NLP and AI together with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp).
