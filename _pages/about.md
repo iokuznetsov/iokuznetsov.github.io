@@ -1,0 +1,24 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a senior postdoc in Natural Language Processing at the [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), 
+[Technical University of Darmstadt](https://www.tu-darmstadt.de/). I coordinate and co-advise InterText: a [large project](https://erc.europa.eu/projects-statistics/science-stories/artificial-intelligence-living-texts) about modeling text as a living object in context. 
+We develop new methods, tasks, datasets and applications for cross-document modeling, edit analysis and AI for peer review and academic work. 
+You can follow this research [here](https://intertext.ukp-lab.de/). 
+Before that, I worked on computational linguistics, probing and interpretability. 
+This journey is described – at length – [here](https://tuprints.ulb.tu-darmstadt.de/19851/). 
+
+Even earlier, I studied Theoretical and Applied Linguistics at the Lomonosov Moscow State University, and worked as an NLP researcher at the Higher School of Economics, in Russia.
+
+Broadly, I am interested in new empirical approaches to AI evaluation, human-AI interaction and collaboration. I like clever applications of AI for scientific work, education, and complex tasks. 
+I love cross-disciplinary research. I am interested in responsible and safe AI, and co-lecture a course on Ethics for NLP and AI together with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp).
+
+Even more broadly, I just find it exciting to be a part of a new, rapidly growing discipline. I wonder how our future science of AI will be. I also like sound design, synthesizers and audiovisual art, but this is a story for another website.
+
+{% include base_path %}
