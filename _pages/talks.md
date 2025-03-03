@@ -18,7 +18,7 @@ Technical University of Darmstadt
 ## 🎙 Invited talks
 
 **Artificial Scientist: Use of LLMs for Data Science, Literature Review, Reviewing Articles** (upcoming)\
-6th Japanese-American-German Frontiers of Science (JAGFOS) Symposium\
+Session talk, 6th Japanese-American-German Frontiers of Science (JAGFOS) Symposium\
 Irvine, U.S.A.
 
 **From Manuscript to Masterpiece: Solving the Puzzle of Complex Scientific Thought** (Nov 2024)\
