@@ -82,11 +82,6 @@ Dycke, N., Kuznetsov, I., & Gurevych, I.\
 Proceedings of the 10th Workshop on Argument Mining, 2023, pp. 187–196.\
 [[link]](https://aclanthology.org/2023.argmining-1.21/)
 
-**Yes-yes-yes: Proactive data collection for ACL rolling review and beyond**\
-Dycke, N., Kuznetsov, I., & Gurevych, I.\
-Findings of the Association for Computational Linguistics: EMNLP 2022, 2022, pp. 300–318.\
-[[link]](https://aclanthology.org/2022.findings-emnlp.23)
-
 **CiteBench: A benchmark for scientific citation text generation**\
 Funkquist, M., Kuznetsov, I., Hou, Y., & Gurevych, I.\
 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, 2023, pp. 7337–7353.\
@@ -96,6 +91,11 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language Proc
 Greisel, M., Bauer, E., Kuznetsov, I., Berndt, M., Dresel, M., Fischer, M. R., Kollar, I., & Fischer, F.\
 Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning-CSCL, 2023, pp. 237–240.\
 [[link]](https://repository.isls.org/handle/1/9202)
+
+**Yes-yes-yes: Proactive data collection for ACL rolling review and beyond**\
+Dycke, N., Kuznetsov, I., & Gurevych, I.\
+Findings of the Association for Computational Linguistics: EMNLP 2022, 2022, pp. 300–318.\
+[[link]](https://aclanthology.org/2022.findings-emnlp.23)
 
 **An inclusive notion of text**\
 Kuznetsov, I., & Gurevych, I.\
