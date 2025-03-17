@@ -99,7 +99,7 @@ Proceedings of the 16th International Conference on Computer-Supported Collabora
 
 **An inclusive notion of text**\
 Kuznetsov, I., & Gurevych, I.\
-Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2020, pp. 11311–11327.\
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023, pp. 11311–11327.\
 [[link]](https://aclanthology.org/2023.acl-long.633/)
 
 **A matter of framing: The impact of linguistic formalism on probing results**\
