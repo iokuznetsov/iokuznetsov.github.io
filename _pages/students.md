@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-### PhD students co-advised (supervisor: Iryna Gurevych)
+### PhD students co-advised
+
+Supervisor: Iryna Gurevych
 
 * Jan Buchmann
 * Nils Dycke
