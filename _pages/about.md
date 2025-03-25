@@ -22,6 +22,6 @@ Even more broadly, I just find it exciting to be a part of a new, rapidly growin
 
 ---
 
-_By the way_, I am looking for a **professorship or an equivalent position from 2025 on**, in Germany or nearby. If you, in turn, are looking for someone interested in responsible AI, scholarly NLP and/or human-AI interaction, let's get in touch!
+_By the way_, I am looking for a **professorship or equivalent from 2025 on**, in Germany or nearby. If you, in turn, are looking for someone interested in responsible AI, scholarly NLP and/or human-AI interaction, let's get in touch!
 
 {% include base_path %}
