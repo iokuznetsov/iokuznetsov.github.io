@@ -20,6 +20,6 @@ Broadly, I am interested in new empirical approaches to AI evaluation, human-AI 
 
 Even more broadly, I just find it exciting to be a part of a new, rapidly growing discipline. I wonder how our future science of AI will be. I also like sound design, synthesizers and audiovisual art, but this is a story for another website. 
 
-_By the way_, I am looking for a professorship or an equivalent position from 2025 on. If you, in turn, are looking for someone interested in responsible AI, scholarly NLP and/or human-AI interaction, feel free to contact me!
+_By the way_, I am looking for a **professorship or an equivalent position from 2025 on**. If you, in turn, are looking for someone interested in responsible AI, scholarly NLP and/or human-AI interaction, get in touch!
 
 {% include base_path %}
