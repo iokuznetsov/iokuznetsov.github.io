@@ -12,7 +12,7 @@ I am a senior postdoc in Natural Language Processing at the [Ubiquitous Knowledg
 We create tasks, datasets, methods and applications for cross-document NLP, edit analysis, and AI for peer reviewing assistance. 
 You can follow this research [here](https://intertext.ukp-lab.de/). 
 Before that, I worked on computational linguistics, probing and interpretability. 
-This journey is described – at length – [here](https://tuprints.ulb.tu-darmstadt.de/19851/) 🎓. 
+My PhD journey is described – at length – [here](https://tuprints.ulb.tu-darmstadt.de/19851/) 🎓. 
 
 Earlier, I studied linguistics at the [Lomonosov Moscow State University](https://lomonosov.university), and worked as an NLP researcher at the [Higher School of Economics](https://www.hse.ru/en/), in Russia. I hold a [Candidate of Sciences](https://en.wikipedia.org/wiki/Candidate_of_Sciences) in Mathematical and Applied Linguistics.
 
