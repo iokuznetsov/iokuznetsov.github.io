@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### PhD students co-advised
-
-Supervisor: Iryna Gurevych
+### PhD students (co-)advised
 
 * Jan Buchmann
 * Nils Dycke
@@ -18,7 +16,7 @@ Supervisor: Iryna Gurevych
 * Dennis Zyska
 * Sheng Lu
 
-### Masters/Bachelors students co-supervised
+### Masters/Bachelors students supervised
 
 * Max Eichler (Masters)
 * Nils Dycke (Masters)
@@ -29,7 +27,7 @@ Supervisor: Iryna Gurevych
 * Gabriel Thiem (Bachelors) 
 * Leon Engländer (Bachelors)
 
-### Interns co-supervised
+### Interns supervised
 
 *  Martin Funkquist
 *  Furkan Şahinuç
