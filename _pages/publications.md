@@ -42,6 +42,10 @@ arXiv:2405.06563 (2024) \
 
 ## 📖 Conference papers
 
+**STRICTA: Structured Reasoning in Critical Text Assessment for Peer Review and Beyond**\
+Nils Dycke, Matej Zečević, Ilia Kuznetsov, Beatrix Suess, Kristian Kersting, Iryna Gurevych\
+To appear in: ACL-2025
+
 **Document structure in long document transformers**\
 Buchmann, J., Eichler, M., Bodensohn, J.-M., Kuznetsov, I., & Gurevych, I.\
 Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), 2024, pp. 1056–1073.\
