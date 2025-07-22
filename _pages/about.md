@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior postdoc in Natural Language Processing at the [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), 
+I am a senior Natural Language Processing researcher at the [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), 
 [Technical University of Darmstadt](https://www.tu-darmstadt.de/). I coordinate and co-advise InterText: a [large](https://erc.europa.eu/projects-statistics/science-stories/artificial-intelligence-living-texts) project about modeling text as a living object in context. 
 We create tasks, datasets, methods and applications for cross-document NLP, edit analysis, and AI for peer reviewing assistance. 
 You can follow this research [here](https://intertext.ukp-lab.de/). 
