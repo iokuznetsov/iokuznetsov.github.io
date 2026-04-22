@@ -35,7 +35,7 @@ Computational Linguistics, 46.2 (2020), pp. 335–385.\
 
 ## 🔥 Important preprints
 
-**Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time**
+**Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time**\
 Ilia Kuznetsov, Rohan Nayak, Alla Rozovskaya, Iryna Gurevych\
 arXiv:2601.15172 (2026)\
 [[link]](https://arxiv.org/abs/2601.15172)
@@ -49,12 +49,12 @@ arXiv:2405.06563 (2024) \
 
 **ABCD-LINK: Annotation Bootstrapping for Cross-Document Fine-Grained Links**\
 Serwar Basch, Ilia Kuznetsov, Tom Hope, Iryna Gurevych\
-Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)\
+Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), 2026\
 [[link]](https://aclanthology.org/2026.eacl-long.157/)
 
 **Pull Requests From The Classroom: Co-Developing Curriculum And Code**\
 Dennis Zyska, Ilia Kuznetsov, Florian Müller, Iryna Gurevych\
-Proceedings of the 2025 Mensch und Computer 2025\
+Proceedings of Mensch und Computer 2025\
 [[link]](https://dl.acm.org/doi/full/10.1145/3743049.3748581)
 
 **Identifying Aspects in Peer Reviews**\
@@ -64,7 +64,7 @@ Findings of the Association for Computational Linguistics: EMNLP 2025\
 
 **STRICTA: Structured Reasoning in Critical Text Assessment for Peer Review and Beyond**\
 Nils Dycke, Matej Zečević, Ilia Kuznetsov, Beatrix Suess, Kristian Kersting, Iryna Gurevych\
-Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)\
+Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025\
 [[link]](https://aclanthology.org/2025.acl-long.1107/)
 
 **Document structure in long document transformers**\
