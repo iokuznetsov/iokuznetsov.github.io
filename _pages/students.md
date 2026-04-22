@@ -31,3 +31,4 @@ author_profile: true
 
 *  Martin Funkquist
 *  Furkan Şahinuç
+*  Rohan Nayak
