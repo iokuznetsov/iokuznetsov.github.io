@@ -7,8 +7,14 @@ author_profile: true
 
 ## ⛳️ Courses
 
-**Ethics for Natural Language Processing** (2024, 2025)\
-Co-lecturer with Iryna Gurevych\
+**Large Language Models Seminar (LLM Evaluation)** (2026)\
+Advanced seminar on LLM Evaluation methods, measurement theory, artificial and natural intelligence. \
+25+ students.
+Technical University of Darmstadt
+
+**Ethics for Natural Language Processing** (2024, 2025, 2026)\
+Large-scale lecture and practice course on AI Ethics, Responsible AI, and NLP for social good. \
+300+ students.
 Technical University of Darmstadt
 
 **Data Analysis Software Project Seminar** (2020)\
@@ -16,10 +22,6 @@ Project group coordinator, *"A Novel Dataset of Peer Reviews"*\
 Technical University of Darmstadt
 
 ## 🎙 Invited talks
-
-**Artificial Scientist: Use of LLMs for Data Science, Literature Review, Reviewing Articles** (upcoming)\
-Session talk, 6th Japanese-American-German Frontiers of Science (JAGFOS) Symposium\
-Irvine, U.S.A.
 
 **From Manuscript to Masterpiece: Solving the Puzzle of Complex Scientific Thought** (Nov 2024)\
 Workshop of the ELLIS Natural Language Processing Program\
