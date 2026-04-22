@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Substitute professor in Computer Science / Natural Langauge Processing** at the Technical University of Darmstadt [Technical University of Darmstadt](https://www.tu-darmstadt.de/). My main research focus is on natural language processing, AI evaluation, NLP for science and education, and responsible AI.
+I am a **Substitute professor in Computer Science / Natural Langauge Processing** at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/). My research focus is on natural language processing, AI evaluation, NLP for science and education, and responsible AI.
 
 ---
 
