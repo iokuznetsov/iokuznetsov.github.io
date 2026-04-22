@@ -11,7 +11,7 @@ I am a **Substitute professor in Computer Science / Natural Langauge Processing*
 
 ---
 
-➡️ After 2026, I am searching for a **professorship** in Germany or nearby. If you are looking for someone in natural language processing, evals, safety, and AI applications for science, education or (who knows!) synthesizers and audiovisual art, let's get in touch!
+➡️ After 2026, I am available for a **professorship**  in Germany or nearby. If you are looking for someone in natural language processing, evals, safety, and AI applications for science, education or (who knows!) synthesizers and audiovisual art, let's get in touch!
 
 ---
 
