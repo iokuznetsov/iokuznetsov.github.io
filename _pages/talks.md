@@ -7,12 +7,12 @@ author_profile: true
 
 ## ⛳️ Courses
 
-**Large Language Models Seminar (LLM Evaluation)** (2026)\
+**Large Language Models Seminar** (2026)\
 Advanced seminar on LLM Evaluation methods, measurement theory, artificial and natural intelligence. \
-25+ students.
+~25 students.
 Technical University of Darmstadt
 
-**Ethics for Natural Language Processing** (2024, 2025, 2026)\
+**Ethics for Natural Language Processing** (2026, 2025, 2024)\
 Large-scale lecture and practice course on AI Ethics, Responsible AI, and NLP for social good. \
 300+ students.
 Technical University of Darmstadt
