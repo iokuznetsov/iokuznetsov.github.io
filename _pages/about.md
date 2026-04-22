@@ -13,7 +13,7 @@ Previously, I worked as a senior postdoc at the [Ubiquitous Knowledge Processing
 
 Before that, I studied linguistics at the [Lomonosov Moscow State University](https://lomonosov.university), and worked as an NLP researcher at the [Higher School of Economics](https://www.hse.ru/en/), in Russia. I hold a [Candidate of Sciences](https://en.wikipedia.org/wiki/Candidate_of_Sciences) in Mathematical and Applied Linguistics.
 
-Broadly, I am interested in new empirical approaches to AI evaluation and human-AI collaboration. I like clever applications of AI for scientific work, social science, education, and complex expert tasks. I love cross-disciplinary research. I am interested in responsible and safe AI: at TU Darmstadt, I teach a large course on Ethics and Responsible AI, and an advanced seminar on LLM Evaluation methodology.
+Broadly, I am interested in new empirical approaches to AI evaluation and human-AI collaboration. I like clever applications of AI for scientific work, education, complex expert tasks and assistive technologies. I love cross-disciplinary research. I am interested in responsible and safe AI: at TU Darmstadt, I teach a large course on Ethics and Responsible AI, and an advanced seminar on LLM Evaluation methodology.
 
 Even more broadly, I just find it exciting to be a part of a new, rapidly growing discipline. I wonder how our future, cross-disciplinary Science of AI will turn out. I also like sound design, synthesizers and audiovisual art, but this is a story for another website. 
 
