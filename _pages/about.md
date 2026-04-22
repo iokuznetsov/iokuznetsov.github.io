@@ -17,6 +17,6 @@ Even more broadly, I just find it exciting to be a part of a new, rapidly growin
 
 ---
 
-➡️ I am looking for a **professorship or equivalent from 2026 on**, in Germany or nearby. If you, in turn, are looking for someone in natural language processing, AI evals and safety, and AI applications for scientific work, education or (who knows!) sound design, synthesizers and audiovisual art, let's get in touch!
+➡️ I am looking for a **professorship or equivalent from 2026 on**, in Germany or nearby. If you are looking for someone in natural language processing, AI evals, safety, and AI applications for science, education or (who knows!) synthesizers and audiovisual art, let's get in touch!
 
 {% include base_path %}
