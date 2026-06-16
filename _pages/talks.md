@@ -23,6 +23,10 @@ Technical University of Darmstadt
 
 ## 🎙 Invited talks
 
+**Measuring Machine Intelligence** (Jun 2026)\
+Invited lecture, Aschaffenburg University of Applied Sciences\
+Aschaffenburg, Germany
+
 **From Manuscript to Masterpiece: Solving the Puzzle of Complex Scientific Thought** (Nov 2024)\
 Workshop of the ELLIS Natural Language Processing Program\
 Dagstuhl, Germany
