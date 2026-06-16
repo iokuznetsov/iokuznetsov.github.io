@@ -16,7 +16,7 @@ author_profile: true
 * Dennis Zyska
 * Sheng Lu
 
-### Masters/Bachelors students supervised
+### Masters/Bachelors students
 
 * Max Eichler (Masters)
 * Nils Dycke (Masters)
@@ -27,7 +27,7 @@ author_profile: true
 * Gabriel Thiem (Bachelors) 
 * Leon Engländer (Bachelors)
 
-### Interns supervised
+### Interns
 
 *  Martin Funkquist
 *  Furkan Şahinuç
