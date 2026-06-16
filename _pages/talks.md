@@ -7,7 +7,7 @@ author_profile: true
 
 ## ⛳️ Courses
 
-**Large Language Models Seminar** (2026)\
+**LLM Evaluation** (2026)\
 Advanced seminar on LLM Evaluation methods, measurement theory, artificial and natural intelligence. \
 ~25 students.
 Technical University of Darmstadt
