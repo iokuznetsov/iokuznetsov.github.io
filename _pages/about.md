@@ -11,7 +11,7 @@ I am a **Substitute professor in Computer Science / Natural Langauge Processing*
 
 ---
 
-➡️ In 2027, I plan to establish my own research group / lab in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
+➡️ In 2027, I plan to establish my own **research group / professorship** in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
 
 ---
 
