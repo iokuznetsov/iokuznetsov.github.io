@@ -35,17 +35,22 @@ Computational Linguistics, 46.2 (2020), pp. 335–385.\
 
 ## 🔥 Important preprints
 
-**Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time**\
-Ilia Kuznetsov, Rohan Nayak, Alla Rozovskaya, Iryna Gurevych\
-arXiv:2601.15172 (2026)\
-[[link]](https://arxiv.org/abs/2601.15172)
-
 **What Can Natural Language Processing Do for Peer Review?**\
 Kuznetsov, I., Afzal, O., Dercksen, K., Dycke, N., Goldberg, A., Hope, T., Hovy, D., Kummerfeld, J. K., Lauscher, A., Leyton-Brown, K., Lu, S., Mausam, Mieskes, M., Névéol, A., Pruthi, D., Qu, L., Schwartz R., Smith, N. A., Solorio, T., Wang, J., Zhu, X., Rogers, A., Shah, N. B., Gurevych, I.\
 arXiv:2405.06563 (2024) \
 [[link](https://arxiv.org/abs/2405.06563)]
 
 ## 📖 Conference papers
+
+**Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time**\
+Ilia Kuznetsov, Rohan Nayak, Alla Rozovskaya, Iryna Gurevych\
+To appear in EMNLP-2026 (2026)\
+[[link]](https://arxiv.org/abs/2601.15172)
+
+**Exposía: Teaching and Assessment of Academic Writing Skills for Research Project Proposals and Peer Feedback**\
+Dennis Zyska, Alla Rozovskaya, Ilia Kuznetsov, Iryna Gurevych\
+To appear in EMNLP-2026 (2026)\
+[[link]](https://arxiv.org/abs/2601.06536)
 
 **ABCD-LINK: Annotation Bootstrapping for Cross-Document Fine-Grained Links**\
 Serwar Basch, Ilia Kuznetsov, Tom Hope, Iryna Gurevych\
