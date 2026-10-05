@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Visiting professor in Computer Science / Natural Langauge Processing** at the [Technical University of Graz]([https://www.tu-darmstadt.de/](https://www.tugraz.at/home). My research focus is on natural language processing, AI for science and education, AI for critical assessment, and responsible AI.
+I am a **Visiting professor in Computer Science / Natural Langauge Processing** at the [Technical University of Graz](https://www.tugraz.at/home). My research focus is on natural language processing, AI for science and education, AI for critical assessment, and responsible AI.
 
 ---
 
