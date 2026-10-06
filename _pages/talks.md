@@ -23,7 +23,7 @@ Technical University of Darmstadt
 
 ## 🎙 Invited talks and Media
 
-**Artificial Intelligence: Threat and Opportunity for Academic Publishing?** (Oct 2026) [[link]](https://www.sciencemediacenter.de/angebote/kuenstliche-intelligenz-bedrohung-und-chance-fuer-das-wissenschaftliche-publikationswesen-26248)
+**Artificial Intelligence: Threat and Opportunity for Academic Publishing?** (Oct 2026) [[link]](https://www.sciencemediacenter.de/angebote/kuenstliche-intelligenz-bedrohung-und-chance-fuer-das-wissenschaftliche-publikationswesen-26248)\
 Expert panel / Press briefing\
 Science Media Center Germany 
 
