@@ -9,11 +9,8 @@ redirect_from:
 
 I am a **Visiting professor in Computer Science** at the [Technical University of Graz](https://www.tugraz.at/home). My research focus is on natural language processing, AI for science and education, AI for critical assessment, and responsible AI.
 
----
-
 ➡️ In 2027, I plan to establish a **new research group** in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
 
----
 
 ## Bio
 
