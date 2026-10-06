@@ -11,7 +11,7 @@ I am a **Visiting professor in Computer Science** at the [Technical University o
 
 ---
 
-➡️ In 2027, I plan to establish my **own research group** in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
+➡️ In 2027, I plan to establish a **new research group** in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
 
 ---
 
