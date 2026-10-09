@@ -8,12 +8,12 @@ author_profile: true
 ## ⛳️ Courses
 
 **Ethics for Natural Language Processing** (2026, 2025, 2024)\
-Large-scale lecture and practice course on AI Ethics, Responsible AI, and NLP for social good. \
+Integrated lecture and practical course on AI Ethics, Responsible AI, and NLP for social good. \
 300+ students. \
 Technical University of Darmstadt
 
 **Natural Language Processing** (2026)\
-An integrated lecture and practical course on foundations and applications of language technology. \
+Integrated lecture and practical course on the foundations and applications of language technology. \
 (Upcoming) \
 Graz University of Technology
 
