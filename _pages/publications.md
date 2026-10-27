@@ -44,13 +44,13 @@ arXiv:2405.06563 (2024) \
 
 **Is Peer Review Really in Decline? Analyzing Review Quality across Venues and Time**\
 Ilia Kuznetsov, Rohan Nayak, Alla Rozovskaya, Iryna Gurevych\
-To appear in EMNLP-2026 (2026)\
-[[link]](https://arxiv.org/abs/2601.15172)
+Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026\
+[[link]](https://arxiv.org/abs/2601.15172](https://aclanthology.org/2026.emnlp-main.1273/)
 
 **Exposía: Teaching and Assessment of Academic Writing Skills for Research Project Proposals and Peer Feedback**\
 Dennis Zyska, Alla Rozovskaya, Ilia Kuznetsov, Iryna Gurevych\
-To appear in EMNLP-2026 (2026)\
-[[link]](https://arxiv.org/abs/2601.06536)
+Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, 2026\
+[[link]](https://aclanthology.org/2026.emnlp-main.49/)
 
 **ABCD-LINK: Annotation Bootstrapping for Cross-Document Fine-Grained Links**\
 Serwar Basch, Ilia Kuznetsov, Tom Hope, Iryna Gurevych\
