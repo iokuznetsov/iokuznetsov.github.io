@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Visiting professor in Computer Science** at the [Graz University of Technology](https://www.tugraz.at/home). Previously, I was a Substitute professor in Natural Langauge Processing at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/).
-
-My research focus is on AI meta-science and evaluation, natural language processing, AI for critical feedback and responsible AI.
+I am a **Visiting professor in Computer Science** at the [Graz University of Technology](https://www.tugraz.at/home). Previously, I was a Substitute professor in Natural Langauge Processing at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/). My research focus is on AI meta-science and evaluation, natural language processing, AI for critical feedback and responsible AI.
 
 ➡️ In 2027, I plan to establish a **new research group** in Germany or nearby. If you are looking for someone with my profile, let's get in touch!
 
